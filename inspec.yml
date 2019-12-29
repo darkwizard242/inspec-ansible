@@ -1,0 +1,10 @@
+name: ansible
+title: Ansible Compliance
+maintainer: Ali Muhammad
+copyright: Ali Muhammad
+copyright_email: am900820@gmail.com
+license: MIT
+summary: An Ansible Compliance Profile
+version: 0.1.0
+supports:
+  platform: os
